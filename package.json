@@ -1,7 +1,7 @@
 {
-  "name": "base-javascript-project-boilerplate",
-  "version": "1.0.1",
-  "description": "Base JavaScript Project Boilerplate",
+  "name": "flowize",
+  "version": "1.0.0",
+  "description": "Generate FlowJs Types from Sequelize model definitions",
   "main": "index.js",
   "scripts": {
     "release": "standard-version",
@@ -12,12 +12,10 @@
     "url": "git+https://github.com/ridakk/base-javascript-project-boilerplate.git"
   },
   "keywords": [
-    "javascript",
-    "boilerplate",
-    "eslint",
-    "commitlint",
-    "husky",
-    "standard-version"
+    "FlowJs",
+    "Flow",
+    "Sequelize",
+    "Types"
   ],
   "author": "Kadir Goktas",
   "license": "MIT",
