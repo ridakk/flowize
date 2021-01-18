@@ -7,4 +7,4 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### Bug Fixes
 
-* model and enum type generation ([f4a0ad7](https://github.com/ridakk/base-javascript-project-boilerplate/commit/f4a0ad76f0e4ffd24a63935b954d4bd7321ed3c8))
+* model and enum type generation ([f4a0ad7](https://github.com/ridakk/flowize/commit/f4a0ad76f0e4ffd24a63935b954d4bd7321ed3c8))

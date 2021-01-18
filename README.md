@@ -20,5 +20,4 @@ const sequelize = require('sequelize');
 
   process.exit();
 })();
-
 ```
