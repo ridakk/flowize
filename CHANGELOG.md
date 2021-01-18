@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.2](https://github.com/ridakk/flowize/compare/v0.0.1...v0.0.2) (2021-01-18)
+
+
+### Bug Fixes
+
+* add BelongsTo association to type definitions ([86c1de1](https://github.com/ridakk/flowize/commit/86c1de120652a8d4836b27f0fd5fed9d47f2b69a))
+
 ### 0.0.1 (2021-01-18)
 
 
