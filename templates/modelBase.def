@@ -1,0 +1,4 @@
+declare type {{=it.name}} = {|
+  {{~it.fields :field:index}}{{=field.key}}{{? field.optional }}?{{?}}: {{? field.default }}?{{?}}{{=field.value}},
+  {{~}}
+|};

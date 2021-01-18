@@ -3,5 +3,11 @@ env:
   node: true
   es6: true
 
-extends:
-  - bundle/env/core
+extends: 
+  - bundle/env/core.yaml
+  - plugin:prettier/recommended
+
+rules:
+  no-plusplus:
+    - 2
+    - allowForLoopAfterthoughts: true

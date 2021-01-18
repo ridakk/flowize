@@ -1,0 +1,1 @@
+declare type {{=it.name}} = {{~it.values :value}}| '{{=value}}'{{~}};

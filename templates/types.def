@@ -1,0 +1,2 @@
+{{~it.types :type:index}}declare type {{=type.key}} = {{=type.value}};
+{{~}}
