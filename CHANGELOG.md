@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.3](https://github.com/ridakk/flowize/compare/v0.0.2...v0.0.3) (2021-01-19)
+
+
+### Bug Fixes
+
+* declare model type with ([c750a30](https://github.com/ridakk/flowize/commit/c750a30c4ab56bd59009e8c2d9d06ff1105654c5))
+
 ### [0.0.2](https://github.com/ridakk/flowize/compare/v0.0.1...v0.0.2) (2021-01-18)
 
 
