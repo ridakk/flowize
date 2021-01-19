@@ -1,4 +1,6 @@
-declare type {{=it.name}} = {|
+type {{=it.name}} = {|
   {{~it.fields :field:index}}{{=field.key}}{{? field.optional }}?{{?}}: {{? field.default }}?{{?}}{{=field.value}},
   {{~}}
 |};
+
+declare type {{=it.typePrefix}}{{=it.name}} = $Shape<{{=it.name}}>;

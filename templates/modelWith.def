@@ -1,5 +1,0 @@
-declare type {{=it.name}}With<Flags> = {|
-  ...{{=it.name}},
-  {{~ it.associations :association }}...$If<$Assignable<'{{=association.key}}', Flags>, {| {{=association.key}}: {{=association.value}} |}, {||}>,
-  {{~}}
-|};

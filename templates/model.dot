@@ -1,5 +1,3 @@
 {{#def.types}}
 
-{{#def.modelBase}}
-
-{{#def.modelWith}}
+{{#def.model}}

@@ -1,1 +1,1 @@
-declare type {{=it.name}} = {{~it.values :value}}| '{{=value}}'{{~}};
+declare type {{=it.typePrefix}}{{=it.name}} = {{~it.values :value}}| '{{=value}}'{{~}};
